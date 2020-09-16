@@ -1,0 +1,20 @@
+
+ Navegador de segurança avast
+ams_feed_card_ultimate_default: feed_card_ultimate,
+av_default_vpn: vpn_default,
+av_onboarding: onboarding_default,
+av_default: default
+
+CampaignBurgerSampling: On
+ad_consent_copy: variant_4
+ad_consent_copy_2: variant_6
+ad_consent_design: variant_2
+av_diff_updates: ON
+new_onboarding_cards_variant: variant_c
+niab_test_1: variant_2
+onboarding_variant: control_group
+upgrade_button_design_test: popping_button
+urlinfo_history_lenght_abn: OFF
+h-after_eula_flow: onboarding
+U2JaVbGuKr6UxywcjXKCEI1KOqr67OefqtsXrtqHTpGhCGyE
+© 2020 
